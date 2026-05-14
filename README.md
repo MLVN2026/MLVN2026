@@ -1,4 +1,4 @@
-<h1>Hi, I'm Melvin, an <a href="https://linkedin.com/in/melvin-j-brownlee-0641082ab/">Cybersecurity Analyst</a>!</h1>
+<h1>Hi, I'm Melvin, a <a href="https://linkedin.com/in/melvin-j-brownlee-0641082ab/">Cybersecurity Analyst</a>!</h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
