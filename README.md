@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/MLVN2026/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MLVN2026/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MLVN2026/azure-network-protocols)
