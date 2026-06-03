@@ -4,6 +4,19 @@ Security+ Certified 🔑
 Passionate about threat detection, incident response,
 log analysis, and network security.
 
+<h2> Technical Skills
+
+- SIEM Analysis
+- Windows Event Logs
+- Active Directory
+- Azure
+- Wireshark
+- Tenable
+- Network Troubleshooting
+- DNS / DHCP / TCP/IP
+- Linux Fundamentals
+- Incident Response
+
 
 
 
