@@ -1,6 +1,6 @@
 <h1>Hi, I'm Melvin, a <a href="https://linkedin.com/in/melvin-j-brownlee-0641082ab/">Cybersecurity Analyst</a>!</h1>
 
-I am a CompTIA Security+ certified cybersecurity professional currently transitioning from a technical troubleshooting background into Security Operations (SOC). My experience diagnosing hardware, software, and network issues has strengthened my analytical thinking and problem-solving skills, which I continue to develop through hands-on cybersecurity labs and real-world simulations. The plan is to continuously develop the technical and investigative mindset required to protect organizations from cyber threats while contributing to a high-performing security team.
+I am a CompTIA Security+ certified cybersecurity professional currently transitioning from a technical troubleshooting background into Security Operations (SOC). My experience diagnosing hardware, software, and network issues has strengthened my analytical thinking and problem-solving skills. The plan is to continuously develop the technical and investigative mindset required to protect organizations from cyber threats while contributing to a high-performing security team.
 
 <h2> Technical Skills </h2>
 
