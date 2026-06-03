@@ -4,7 +4,7 @@ Security+ Certified 🔑
 Passionate about threat detection, incident response,
 log analysis, and network security.
 
-<h2> Technical Skills
+<h2> Technical Skills </h2>
 
 - SIEM Analysis
 - Windows Event Logs
