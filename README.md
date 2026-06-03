@@ -1,6 +1,7 @@
 <h1>Hi, I'm Melvin, a <a href="https://linkedin.com/in/melvin-j-brownlee-0641082ab/">Cybersecurity Analyst</a>!</h1>
 
-Security+ Certified | Passionate about threat detection, incident response,
+Security+ Certified 🔑
+Passionate about threat detection, incident response,
 log analysis, and network security.
 
 
