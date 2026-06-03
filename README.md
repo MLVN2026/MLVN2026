@@ -16,6 +16,10 @@ CompTIA Security+ certified cybersecurity professional currently transitioning f
 - Incident Response
 
 
+Frameworks & Compliance
+
+PCI-DSS NIST 800-53 ISO 27001
+
 
 
 
